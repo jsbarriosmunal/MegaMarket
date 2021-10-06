@@ -1,0 +1,7 @@
+teamName: MegaMarket
+
+-1018421469  Juan Barrios Moreno      jsbarriosm@unal.edu.co
+-1094247389  Tatiana Espinosa         tatianaespib@gmail.com
+-1037659069  Andrés Guarín            minoltaguarin01@gmail.com
+-1000949873  Stefano Rojas Bloise     strojasbl@unal.edu.co
+-13721880    Nilson Villabona Toloza  polux1271@gmail.com
