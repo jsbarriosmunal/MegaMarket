@@ -26,6 +26,11 @@ label{
     font-weight: bold;
 
 }
+p{
+    color:#3D64AC;
+    font-family: 'Ubuntu', sans-serif;
+    font-weight: bold;
+}
 
 .sign {
     color:#3D64AC;
@@ -99,4 +104,6 @@ form {
         border-radius: 10px;
     }
 }
+
+
 
